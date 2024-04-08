@@ -6,10 +6,10 @@
 
 
 <a href="https://github.com/andersonrrss">
-  <img align="center" height="200em" src="https://github-readme-stats.vercel.app/api?username=andersonrrss&theme=tokyonight&show_icons=true" alt="Seus Status" />
+  <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api?username=andersonrrss&theme=tokyonight&show_icons=true" alt="Seus Status" />
 </a>
 <a href="https://github.com/andersonrrss">
-  <img align="center" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonrrss&layout=compact&theme=tokyonight" alt="Top Langs" />
+  <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonrrss&layout=compact&theme=tokyonight" alt="Top Langs" />
 </a>
 
 <div style="display: inline-block">
