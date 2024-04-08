@@ -5,12 +5,14 @@
 - ⚡ Fun fact: eu tenho um cachorro!
 
 
-<a href="https://github.com/andersonrrss">
-  <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api?username=andersonrrss&theme=tokyonight&show_icons=true" alt="Seus Status" />
-</a>
-<a href="https://github.com/andersonrrss">
-  <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonrrss&layout=compact&theme=tokyonight" alt="Top Langs" />
-</a>
+<div>
+  <a href="https://github.com/andersonrrss">
+    <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api?username=andersonrrss&theme=tokyonight&show_icons=true" alt="Seus Status" />
+  </a>
+  <a href="https://github.com/andersonrrss">
+    <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonrrss&layout=compact&theme=tokyonight" alt="Top Langs" />
+  </a>
+</div>
 
 <div style="display: inline-block">
   <img align="center" height="40px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
