@@ -1,7 +1,6 @@
 ## Olá! Eu sou Anderson!
 
 - 🌱 Atualmente eu estou aprendendo como usar Flask e melhorando o uso do SQL!
-- 💬 Ask me about ...
 - ⚡ Fun fact: eu tenho um cachorro!
 
 
