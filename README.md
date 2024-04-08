@@ -12,8 +12,8 @@
     <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonrrss&layout=compact&theme=tokyonight" alt="Top Langs" />
   </a>
 </div>
-
-<div style="display: inline-block;">
+<br>
+<div style="display: inline-block; margin-top: 20px;">
   <img align="center" height="40px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
   <img align="center" height="40px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
   <img align="center" height="40px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
