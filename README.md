@@ -14,7 +14,7 @@
   </a>
 </div>
 
-<div style="display: inline-block">
+<div style="display: inline-block;">
   <img align="center" height="40px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
   <img align="center" height="40px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
   <img align="center" height="40px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
