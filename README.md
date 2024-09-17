@@ -1,8 +1,6 @@
 ## Olá! Eu sou Anderson!
 
-- 🌱 Atualmente eu estou aprendendo como usar Flask e melhorando o uso do SQL!
 - ⚡ Fun fact: eu tenho um cachorro!
-
 
 <div>
   <a href="https://github.com/andersonrrss">
