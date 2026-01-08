@@ -1,41 +1,43 @@
 ## Olá! Eu sou Anderson!
 
-- ⚡ Fun fact: eu tenho um cachorro!
+Me chamo Anderson Ramon, tenho 18 anos e natural do Rio Grande do Norte. Concluí o ensino médio na Escola Estadual Monsenhor Amâncio Ramalho com curso técnico em Suporte e Manutenção a Informática. Atualmente não faço nenhuma faculdade ou curso. Gosto da área de tecnologia, principalmente da área de programação backend ou baixo nível.
 
-<div>
-  <a href="https://github.com/andersonrrss">
-    <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api?username=andersonrrss&theme=tokyonight&show_icons=true" alt="Seus Status" />
-  </a>
-  <a href="https://github.com/andersonrrss">
-    <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonrrss&layout=compact&theme=tokyonight" alt="Top Langs" />
-  </a>
-</div>
-<br>
-<div style="display: inline-block; margin-top: 20px;">
-  <!-- <img align="center" height="40px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" /> -->
-  <!-- <img align="center" height="40px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"/> -->
-  <!-- <img align="center" height="40px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" /> -->
-  <img align="center" height="40px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
-  <img align="center" height="40px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"/>
-  <img align="center" height="40px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
-</div>
 
-  ##
-
-  <div> 
-  <a href="https://instagram.com/andersonrrss" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+<div> 
+  <a href="https://instagram.com/andersonrrss">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram">
   </a>
   <a href = "mailto:andersonrss122@hotmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+    <img src="https://img.shields.io/badge/Microsoft Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white"/>
   </a>
-  <a href="https://wa.me/558486314847" target="_blank">
+  
+  <a href="https://wa.me/558486314847">
     <img src="https://img.shields.io/badge/-WhatsApp-%2325D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
   </a>
+  <a href="https://discord.com/users/677354216242675723">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" alt="discord">
+  </a>
   <a target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a> 
+</div>
+
+---
+
+### 👨🏻‍💻 Linguagens e tecnologias 
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,angular,tailwind,cpp,cs,docker,postgres,vscode" />
+  </a>
+</p>
+
+---
+
+<div>
+  <img align="center" height="200dm" src="https://github-stats-delta-dun.vercel.app/api/index/?username=andersonrrss&layout=compact&theme=tokyonight" >
   
+  <img align="center" height="200dm" src="https://github-stats-delta-dun.vercel.app/api/top-langs?username=andersonrrss&layout=compact&theme=tokyonight" alt="Top Langs" />
 </div>
 
 <picture>
