@@ -28,7 +28,7 @@ Me chamo Anderson Ramon, tenho 18 anos e natural do Rio Grande do Norte. Conclu√
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,angular,tailwind,cpp,cs,docker,postgres,vscode" />
+    <img src="https://skillicons.dev/icons?i=git,angular,tailwind,rust,cs,docker,postgres,vscode,dotnet" />
   </a>
 </p>
 
